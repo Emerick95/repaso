@@ -1,0 +1,16 @@
+.dark-mode {
+  background-color: limegreen;
+  color: black;
+}
+button{
+  width: 200px;
+}
+#incomplete{
+  background-color: yellow;
+  color: black;
+}
+
+#delete{
+  width: 100px;
+}
+
